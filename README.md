@@ -51,4 +51,4 @@ Here are some other projects I made for friends. The left one is a promo-video f
 </p>
 
 Under Resources in this repo, you will displayed sources, some more professional projects in the domain of theoretical robotics dynamics and the promised sample scripts.
-For detailed insight or questions (of if you want to hear some of my music), please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
+For uncompressed files, detailed insights or questions (of if you want to hear some of my music), please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
