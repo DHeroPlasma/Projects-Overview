@@ -1,10 +1,12 @@
 # Portfolio
-This is a brief collection of insights to my private and some of my professional projects. For detailed insight or questions, please contact me directly via lukas@luphi.net.
+This is a brief collection of insights to my private and some of my professional projects.
 
 ## Introduction
-Hi, I am Lukas, a passionate programmer, proud engineer and 3D designer specialized on Extended-Reality content. Sometimes I spend my free writing my own computer games, composing music or rendering digital drawings or models for my games. Have fun scrolling!
+Hi, I am Lukas, a passionate programmer, proud engineer and 3D designer specialized on Extended-Reality content. Sometimes, even though I am not really a regular gamer, I spend my free creating computer games, composing music or rendering digital drawings or models. Have fun scrolling!
 
-## A Tooling Editor for Creating XR-Training Content
+## Work Projects
+
+### A Tooling Editor for Creating XR-Training Content
 In this project, I wrote a tooling editor for creating interactive Extended-Reality content for people without coding skills as an individual contributor. I added some sample scripts to this repository, demonstrating my use of advanced programming techniques such as [reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/), the implementation of graphical property editors through abstraction and interfacing, or the application of patterns like [MVVM](https://learn.microsoft.com/de-de/dotnet/architecture/maui/mvvm).
 
 <p align="center">
@@ -14,12 +16,16 @@ In this project, I wrote a tooling editor for creating interactive Extended-Real
 
 This project is work-related, but I am using parts of my property editing techniques in private projects as well.
 
-## A Human-In-The-Loop Training Gym for Industrial Robots
+### A Human-In-The-Loop Training Gym for Industrial Robots
 This project is the practical outcome of my masters-thesis, I used it to prove that demonstrations for grasping loose objects from a bin can impact the robot's machine learning process positively. You can find links to my successfull publication based on this research in my CV. Download the video to get an impression after clicking the thumbnail below:
 
-[![Demo](Resources/Robotic_ML-Thumbnail.png)](Resources/FAIM_HybridLearning_DemoVideo.mp4)
+![Demo](Resources/Robotic_ML-Thumbnail.png)
 
-## Total Recall Worlds SneakPeak & Other 3D Animations
+Download [this](Resources/FAIM_HybridLearning_DemoVideo.mp4) video to get some more insight!
+
+## Private Projects
+
+### Total Recall Worlds SneakPeak
 My most recent game project is called "Totall Recall Worlds" and is loosely based on the successfull "Sims" series published in the early 2000s by EA. My girlfriend likes to play the former a lot but didn't like similar titles having been published in the last years. So I decided to give it a shot and we defined the following conept:
 
 * A new planet, potentially Mars (I haven't decided on that yet) is being settled from different beings around the galaxy.
@@ -36,5 +42,13 @@ Since I focus on my job most of the time, progress could be better, but I am hav
   <img src="Resources/Bottle-Animation.gif" alt="Bild" width="47%">
 </p>
 
-To be continued ...
+### More Animations & Drawings
+Here are some other projects I made for friends. The left one is a promo-video for a CNC machine, the right one is a drawing of a dream my girlfriend had one night, I made it as a Birthday present a few years ago - sadly, I wiped both the Blender project as well as the mail containing the rendered image for the printing service, but here's a photo of the drawing:
 
+<p align="center">
+  <img src="Resources/CNC-Animation.gif" alt="Bild 1" width="58%" />
+  <img src="Resources/Bed_In_Ocean-RIP.jpeg" alt="Bild 2" width="41%" />
+</p>
+
+Under Resources in this repo, you will displayed sources, some more professional projects in the domain of theoretical robotics dynamics and the promised sample scripts.
+For detailed insight or questions (of if you want to hear some of my music), please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
