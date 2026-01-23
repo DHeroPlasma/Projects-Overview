@@ -17,7 +17,7 @@ In this project, I wrote a tooling editor for creating interactive Extended-Real
 This project is work-related, but I am using parts of my property editing techniques in private projects as well.
 
 ### A Human-In-The-Loop Training Gym for Industrial Robots
-This project is the practical outcome of my masters-thesis, I used it to prove that demonstrations for grasping loose objects from a bin can impact the robot's machine learning process positively. You can find links to my successfull publication based on this research in my CV. Download the video to get an impression after clicking the thumbnail below:
+This project is the practical outcome of my masters-thesis, I used it to prove that demonstrations for grasping loose objects from a bin can impact the robot's machine learning process positively. You can find links to my successfull publication based on this research in my CV.
 
 ![Demo](Resources/Robotic_ML-Thumbnail.png)
 
