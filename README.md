@@ -1,4 +1,4 @@
-# Portfolio
+# Short Portfolio
 This is a brief collection of insights to my private and some of my professional projects.
 
 ## Introduction
