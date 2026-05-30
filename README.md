@@ -43,7 +43,7 @@ Since I focus on my job most of the time, progress could be better, but I am hav
 </p>
 
 ### More Animations & Drawings
-Here are some other projects I made for friends. The left one is a promo-video for a CNC machine, the right one is a drawing of a dream my girlfriend had one night, I made it as a Birthday present a few years ago - sadly, I wiped both the Blender project as well as the mail containing the rendered image for the printing service, but here's a photo of the drawing:
+Here are some other projects I made for friends. The left one is a promo-video for a CNC machine, the right one is a drawing I made as a Birthday present a few years ago - here's a photo of the rendered drawing:
 
 <p align="center">
   <img src="Resources/CNC-Animation.gif" alt="Bild 1" width="58%" />
