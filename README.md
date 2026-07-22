@@ -7,7 +7,7 @@ Hi, I am Lukas, a passionate programmer, proud engineer and 3D designer speciali
 ## Work Projects
 
 ### A Tooling Editor for Creating XR-Training Content
-In this project, I wrote a tooling editor for creating interactive Extended-Reality content for people without coding skills as an individual contributor. I added some sample scripts to this repository, demonstrating my use of advanced programming techniques such as [reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/), the implementation of graphical property editors through abstraction and interfacing, or the application of patterns like [MVVM](https://learn.microsoft.com/de-de/dotnet/architecture/maui/mvvm).
+In this project, I wrote a tooling editor for creating interactive Extended-Reality content for people without coding skills as an individual contributor. The solution allows to create your own training environment for employees to be qualified. I added some sample scripts to this repository, demonstrating my use of advanced programming techniques such as [reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/), the implementation of graphical property editors through abstraction and interfacing, or the application of patterns like [MVVM](https://learn.microsoft.com/de-de/dotnet/architecture/maui/mvvm).
 
 <p align="center">
   <img src="Resources/Metaverse_Tooling-Editor.png" alt="Bild 1" width="54%" />
@@ -15,6 +15,7 @@ In this project, I wrote a tooling editor for creating interactive Extended-Real
 </p>
 
 This project is work-related, but I am using parts of my property editing techniques in private projects as well.
+Most recently, I have been driving the integration of interactive 3D GenAI assistants that users in Virtual Reality interact with through natural speech.
 
 ### A Human-In-The-Loop Training Gym for Industrial Robots
 This project is the practical outcome of my masters-thesis, I used it to prove that demonstrations for grasping loose objects from a bin can impact the robot's machine learning process positively. You can find links to my successfull publication based on this research in my CV.
