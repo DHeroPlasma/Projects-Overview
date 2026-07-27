@@ -36,13 +36,18 @@ My most recent game project is called "Totall Recall Worlds" and is loosely base
 * Of course, characters and house's interiors can be edited using a tooling editor.
 * Houses or so called "Community Places" can be entered with real-world friends in VR via Multiplayer, to display interior decoration or to play mini games like bowling at the latter
 
-Since I focus on my job most of the time, progress could be better, but I am having fun and will see where it goes.
+I am having fun and will see where it goes.
+
+<p align="center">
+  <img src="Resources/TotallRecallWorlds-SneakPeak.png" alt="Demo GIF" width="52%">
+  <img src="Resources/Bottle-Animation.gif" alt="Bild" width="47%">
+</p>
 
 ### Computational science projects
 During my mechanical engineering studies, I really enjoyed focusing on 3D problem analysis of manifolds and computational dynamics from a theoretical point of view. One of my reports can be found [here](Resources/GNI_Report_GL_Zikeli.pdf).
 
 <p align="center">
-  <img src="Resources/GNI.png" alt="Demo GIF" width="90%">
+  <img src="Resources/GNI.png" alt="Demo GIF" width="99%">
 </p>
 
 ### More Animations & Drawings
