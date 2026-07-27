@@ -38,10 +38,6 @@ My most recent game project is called "Totall Recall Worlds" and is loosely base
 
 Since I focus on my job most of the time, progress could be better, but I am having fun and will see where it goes.
 
-<p align="center">
-  <img src="Resources/GNI.png" alt="Demo GIF" width=90%>
-</p>
-
 ### Computational science projects
 During my mechanical engineering studies, I really enjoyed focusing on 3D problem analysis of manifolds and computational dynamics from a theoretical point of view. One of my reports can be found [here](Resources/GNI_Report_GL_Zikeli.pdf).
 
