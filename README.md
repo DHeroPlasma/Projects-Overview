@@ -43,6 +43,9 @@ Since I focus on my job most of the time, progress could be better, but I am hav
   <img src="Resources/Bottle-Animation.gif" alt="Bild" width="47%">
 </p>
 
+### Computational science projects
+During my mechanical engineering studies, I really enjoyed focusing on 3D problem analysis of manifolds and computational dynamics from a theoretical point of view. One of my reports can be found [here](Resources/GNI_Report_GL_Zikeli.pdf).
+
 ### More Animations & Drawings
 Here are some other projects I made for friends. The left one is a promo-video for a CNC machine, the right one is a drawing I made as a Birthday present a few years ago - here's a photo of the rendered drawing:
 
