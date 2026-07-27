@@ -39,12 +39,15 @@ My most recent game project is called "Totall Recall Worlds" and is loosely base
 Since I focus on my job most of the time, progress could be better, but I am having fun and will see where it goes.
 
 <p align="center">
-  <img src="Resources/TotallRecallWorlds-SneakPeak.png" alt="Demo GIF" width="52%">
-  <img src="Resources/Bottle-Animation.gif" alt="Bild" width="47%">
+  <img src="Resources/GNI.png" alt="Demo GIF" width=90%>
 </p>
 
 ### Computational science projects
 During my mechanical engineering studies, I really enjoyed focusing on 3D problem analysis of manifolds and computational dynamics from a theoretical point of view. One of my reports can be found [here](Resources/GNI_Report_GL_Zikeli.pdf).
+
+<p align="center">
+  <img src="Resources/GNI.png" alt="Demo GIF" width="90%">
+</p>
 
 ### More Animations & Drawings
 Here are some other projects I made for friends. The left one is a promo-video for a CNC machine, the right one is a drawing I made as a Birthday present a few years ago - here's a photo of the rendered drawing:
