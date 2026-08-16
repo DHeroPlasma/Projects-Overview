@@ -59,4 +59,14 @@ Here are some other projects I made for friends. The left one is a promo-video f
 </p>
 
 Under Resources in this repo, you will displayed sources, some more professional projects in the domain of theoretical robotics dynamics and the promised sample scripts.
-For uncompressed files, detailed insights or questions (of if you want to hear some of my music), please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
+
+### Web-Game - Love is Phina:
+My vibe-coding web project. I wrote this game in two days using an AI assistant and node.js. The result is a clean project seperated into JavaScript, HTML and CSS for web- and mobile platforms, developments are currently still ongoing. The principle in short: In a matching round, session participants answer questions stated by the host, then matches are made based on the answers. The matched "couples" then answer more questions focusing on a potential relationship rather than on personal preferences, their scores are live tracked in a table on the host view. The couple with the highest score wins and is allowed to make their engagement.
+
+<p align="center">
+  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Client1 — Mozilla Firefox.jpeg" alt="Bild 1" width="17%" />
+  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host — Mozilla Firefox.png" alt="Bild 2" width="25%" />
+  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host2 — Mozilla Firefox.png" alt="Bild 2" width="57%" />
+</p>
+
+For uncompressed files, detailed insights or questions regarding the code, please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
