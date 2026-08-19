@@ -65,8 +65,8 @@ My vibe-coding web project. I wrote this game in two days using an AI assistant 
 
 <p align="center">
   <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Client1 — Mozilla Firefox.jpeg" alt="Bild 1" width="17%" />
-  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host — Mozilla Firefox.png" alt="Bild 2" width="25%" />
-  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host2 — Mozilla Firefox.png" alt="Bild 2" width="57%" />
+  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host — Mozilla Firefox.png" alt="Bild 2" width="24%" />
+  <img src="Resources/2026-08-16 13_40_59-Love-is-Phina – Host2 — Mozilla Firefox.png" alt="Bild 2" width="55%" />
 </p>
 
 For uncompressed files, detailed insights or questions regarding the code, please contact me directly via [lukas@luphi.net](mailto:lukas@luphi.net?subject=About%20your%20portfolio).
