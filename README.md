@@ -10,14 +10,15 @@ Hi, I am Lukas, a passionate programmer, proud engineer and 3D designer speciali
 As an individual contributor, I developed a tooling editor for creating interactive extended reality content for users without coding experience. The solution enables users to create customized training environments for employee qualification. I added some sample scripts to this repository, demonstrating my use of advanced programming techniques such as [reflection](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/), the implementation of graphical property editors through abstraction and interfacing, or the usage of patterns like [MVVM](https://learn.microsoft.com/de-de/dotnet/architecture/maui/mvvm).
 
 <p align="center">
-  <img src="Resources/Metaverse_Tooling-Editor.png" alt="Bild 1" width="99%" />
+  <img src="Resources/Metaverse_Tooling-Editor.png" alt="Bild 1" width="55%" />
+  <img src="Resources/Metaverse-Brew.jpeg" alt="Bild 2" width="44%" />
 </p>
 
 Authored content can then be used by trainees to train procedures in VR or get on demand AR assistance. The same .NET, Unity and Microsoft Mixed Reality Toolkit codebase and configured dataset is used for adaptable VR and AR render mode, depending on the platform or trainee input.
 
 <p align="center">
-    <img src="Resources/Metaverse-Brew.jpeg" alt="Bild 2" width="44%" />
   <img src="Resources/HoloLens_VirtualGuide_AR-Demo.gif" alt="Demo GIF" width="54%" />
+  <img src="Resources/AVP_Creator-Demo.gif" alt="Bild 2" width="45%" />
 </p>
 
 This project is work-related, but I am using parts of my property editing techniques in private projects as well.
