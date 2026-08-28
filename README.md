@@ -13,7 +13,7 @@ As an individual contributor, I developed a tooling editor for creating interact
   <img src="Resources/Metaverse_Tooling-Editor.png" alt="Bild 1" width="99%" />
 </p>
 
-Authored content can then be used by trainees to train procedures in VR or get on demand AR assistance. The same codebase is used for VR and AR render mode, depending on the platform and user input.
+Authored content can then be used by trainees to train procedures in VR or get on demand AR assistance. The same .NET, Unity and Microsoft Mixed Reality Toolkit codebase and configured dataset is used for adaptable VR and AR render mode, depending on the platform or trainee input.
 
 <p align="center">
     <img src="Resources/Metaverse-Brew.jpeg" alt="Bild 2" width="44%" />
