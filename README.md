@@ -2,7 +2,7 @@
 This is a brief collection of insights to my private and some of my professional projects.
 
 ## Introduction
-Hi, I am Lukas, a passionate programmer, proud engineer and 3D designer specialized on Extended-Reality content. Sometimes I spend my free time crafting games or rendering digital drawings and models. Have fun scrolling!
+Hi, I am Lukas, a passionate developer, proud engineer and 3D designer. Sometimes I spend my free time crafting games or rendering digital drawings and models. Have fun scrolling!
 
 ## Work Projects
 
@@ -36,7 +36,7 @@ Download [this](Resources/FAIM_HybridLearning_DemoVideo.mp4) video to get some m
 ### Total Recall Worlds SneakPeak
 My most recent game project is called “Totall Recall Worlds.” It is loosely inspired by the successful The Sims series, published by EA in the early 2000s. My girlfriend enjoys playing The Sims but has not found similar titles released in recent years particularly appealing. So, I decided to give it a try, and together we defined the following concept:
 
-* A new planet—potentially Mars, although I have not decided yet—is being settled by different species from across the galaxy.
+* A new planet - potentially Mars, although I have not decided yet - is being settled by different species from across the galaxy.
 * The inhabitants interact, form friendships, fall in love, and start families.
 * Characters have wants and needs that the player must fulfill. Some of these can be quite demanding.
 * Players can engage in economic simulations inspired by games such as Factorio to increase their income or even establish new businesses.
