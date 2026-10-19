@@ -78,7 +78,7 @@ The project can be used securely from anywhere as I added https tunneling, scali
 
 I am considering to transfer the idea into a gamified dating app, but similar concepts do exist and I am still trying to define a USP.
 
-### Computational science projects
+### Computational simulation projects
 During my mechanical engineering studies, I really enjoyed focusing on 3D problem analysis of manifolds and computational dynamics from a theoretical point of view. One of my reports can be found [here](Resources/GNI_Report_GL_Zikeli.pdf).
 
 <p align="center">
